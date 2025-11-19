@@ -1,4 +1,4 @@
-# TeamB_EHR-Imaging-Documentation-System
+# EHR-Imaging-Documentation-System
 
 # Milestone 1:
 
